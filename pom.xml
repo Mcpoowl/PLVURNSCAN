@@ -120,7 +120,7 @@
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.3</version>
+            <version>2.7</version>
         </dependency>
         <dependency>
             <groupId>org.apache.servicemix.bundles</groupId>
@@ -150,7 +150,7 @@
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.6</version>
+            <version>2.7</version>
         </dependency>
         <dependency>
             <groupId>org.bouncycastle</groupId>
@@ -250,7 +250,7 @@
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.3</version>
+            <version>2.7</version>
         </dependency>
         <dependency>
             <groupId>org.apache.servicemix.bundles</groupId>
